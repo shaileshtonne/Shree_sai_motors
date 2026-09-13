@@ -1,2 +1,3 @@
 # Shree_sai_motors
-Motor rewiding 
+This is my first Git Repository.
+Author-Shailesh
